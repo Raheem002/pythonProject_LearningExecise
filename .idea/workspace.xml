@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd25506a-67f0-49ec-873a-ace91a7521aa" name="Changes" comment="">
+    <list default="true" id="dd25506a-67f0-49ec-873a-ace91a7521aa" name="Changes" comment="raheem12">
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/pythonProject_LearningExecise.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L001.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +41,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.L001.executor": "Run",
+    "Python.L08062024.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.lookFeel"
@@ -63,6 +63,45 @@
       <option name="presentableId" value="Default" />
       <updated>1717839330298</updated>
     </task>
+    <task id="LOCAL-00001" summary="L001test">
+      <option name="closed" value="true" />
+      <created>1717839811964</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717839811964</updated>
+    </task>
+    <task id="LOCAL-00002" summary="L001test">
+      <option name="closed" value="true" />
+      <created>1717839847348</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717839847348</updated>
+    </task>
+    <task id="LOCAL-00003" summary="raheem1">
+      <option name="closed" value="true" />
+      <created>1717839912203</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717839912203</updated>
+    </task>
+    <task id="LOCAL-00004" summary="raheem12">
+      <option name="closed" value="true" />
+      <created>1717840043560</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717840043560</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="L001test" />
+    <MESSAGE value="raheem1" />
+    <MESSAGE value="raheem12" />
+    <option name="LAST_COMMIT_MESSAGE" value="raheem12" />
   </component>
 </project>
