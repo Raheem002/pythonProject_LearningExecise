@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd25506a-67f0-49ec-873a-ace91a7521aa" name="Changes" comment="L002test">
+    <list default="true" id="dd25506a-67f0-49ec-873a-ace91a7521aa" name="Changes" comment="Variable types">
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/pythonProject_LearningExecise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_11062024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/L001.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/L08062024.py" beforeDir="false" afterPath="$PROJECT_DIR$/L08062024.py" afterDir="false" />
     </list>
@@ -51,17 +52,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.L001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.L002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.L08062024.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.L001.executor": "Run",
+    "Python.L002.executor": "Run",
+    "Python.L003.executor": "Run",
+    "Python.L08062024.executor": "Run",
+    "Python.ex_11062024.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -126,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718075531432</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Variable types">
+      <option name="closed" value="true" />
+      <created>1718076033831</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718076033831</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -134,7 +145,8 @@
     <MESSAGE value="raheem1" />
     <MESSAGE value="raheem12" />
     <MESSAGE value="L002test" />
-    <option name="LAST_COMMIT_MESSAGE" value="L002test" />
+    <MESSAGE value="Variable types" />
+    <option name="LAST_COMMIT_MESSAGE" value="Variable types" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
